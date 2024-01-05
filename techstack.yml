@@ -2,7 +2,7 @@ repo_name: BenHerbst/pixelgraphics
 report_id: 5c060d746a41003ad1df2d53f01cc62e
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:50:52+00:00'
+timestamp: '2024-01-05T08:20:58+00:00'
 requested_by: semantic-release-bot
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/BenHerbst/pixelgraphics
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BenHerbst/pixelgraphics
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -36,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/pixelgraphics
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -45,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/BenHerbst/pixelgraphics/blob/master/.github/workflows/main.yml
   detection_source: ".github/workflows/main.yml"
   last_updated_by: aarthificial
   last_updated_on: 2021-06-08 21:28:52.000000000 Z
